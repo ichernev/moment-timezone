@@ -386,6 +386,7 @@
 	} else {
 		// moment 2.7.0
 		momentProperties._z = null;
+		momentProperties._a = null;
 	}
 
 	// INJECT DATA
